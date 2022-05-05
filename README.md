@@ -1,4 +1,4 @@
-# Loja de games BIG N
+#FARMACIA
 
 - Criado o projeto no Spring Tool utilizando conceito de API RESTful (Model, Repository e Controller).
 - Feito o CRUD completo do recurso Produto (6 métodos)
